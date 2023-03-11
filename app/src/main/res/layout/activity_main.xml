@@ -61,7 +61,7 @@
         android:layout_marginStart="-70dp"
         android:layout_marginTop="16dp"
 
-        android:text="Log into"
+        android:text="Log in"
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@id/editTextTextPersonName2"
